@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work Interface homem maquina", "Work Interface homem maquina.csproj", "{CF366973-273A-48C7-AD92-457B05051B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF366973-273A-48C7-AD92-457B05051B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF366973-273A-48C7-AD92-457B05051B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF366973-273A-48C7-AD92-457B05051B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF366973-273A-48C7-AD92-457B05051B92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F5279F5-6A2B-49CD-841A-4FB926C77F70}
+	EndGlobalSection
+EndGlobal
